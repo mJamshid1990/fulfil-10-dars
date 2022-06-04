@@ -23,6 +23,7 @@ fetch(`https://jsonplaceholder.typicode.com/users`)
 //zanjir
 //users.filter().map().sort().find();
 
+//Vazifa
 //pagination struktura
 // 1. datani boshidan 0 ta elementni tashlab ketishi kerak. 30 tasini olib beradi.
 // 2. datani boshidan 30 ta elementni tashlab ketishi kerak. 30-60
